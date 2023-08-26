@@ -1,0 +1,19 @@
+body{
+    background-color: #1c1a27;
+}
+h1{
+    color: #fca647;
+}
+p{
+    color: #a3b1aa;
+}
+table{
+    width: 100%;
+}
+tr{
+    background-color: #53687d;
+    color: white;
+}
+img{
+    width: 100%;
+}
